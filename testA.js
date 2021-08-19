@@ -1,4 +1,5 @@
-var test = 1;
+var test = 1
+var test2 = 2
 
 var testAFuc = () => {
     console.log('Hello world');
